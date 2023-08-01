@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/brianvoe/gofakeit/v6 v6.23.0
-	github.com/rogeecn/atom v1.0.4
+	github.com/rogeecn/atom v1.0.6
 )
 
 require (
